@@ -1,15 +1,4 @@
 # Demo Git Repository
 
-This is my first Git lesson
+This is part of Git training
 
-Manju
-
-## Heading 2
-
-Lore ipsum
-
-ropigpowejf;ljfl;
-
-ldnaslakjdklas
-akadhalkjds
-hwsfhsd
